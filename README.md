@@ -13,6 +13,6 @@ A Perl script for manage a file, populated by default, where you can:
 
 6 - Copy the content of the first file into the second file (option '-C' or '--cp')
 <hr>
-<em><strong> USAGE: </strong></em><br>
+<em><strong> USAGE: </strong></em><br><br>
 
-./file_operations.pl [option] [file]
+&nbsp; ./file_operations.pl [option] [file]
