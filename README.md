@@ -1,4 +1,4 @@
-# file-oper
+# FileOperations
 A Perl script for manage a file, populated by default, where you can:
 
 1 - Create the file itself (option '-c' or '--cr') <br>
