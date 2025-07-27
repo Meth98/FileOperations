@@ -9,5 +9,5 @@ A Perl script for manage a file populated by default. Below all the script optio
 - `-C`, `--cp` -> to copy the content of the first file into the second file
 <hr>
 
-### USAGE:
+### USAGE
 &nbsp;&nbsp; ``` ./file_operations.pl [option] [file] ```
